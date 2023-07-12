@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hydejack
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hydejack.svg)](https://badge.fury.io/rb/jekyll-theme-hydejack)
 
@@ -121,3 +122,6 @@ This table details what is and isn't included in each respective version.
 [tinyletter]: https://tinyletter.com/
 
 *[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+=======
+Welcome
+>>>>>>> d0d189ed14eb372391f58b1f66beadf3b37fd165
