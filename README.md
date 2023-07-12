@@ -9,25 +9,6 @@ Check the theme in action [Demo](https://flexton.netlify.com/)
 
 ![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
-<h2>Features</h2>
-
-<ul>
-	<li>100% responsive and clean theme</li>
- 	<li>Optimized for mobile devices</li>
-	<li>Valid HTML5 code</li>
-	<li>Included site search</li>
-	<li>Contact Page</li>
-	<li>Post sharing</li>
-	<li>Supports Mail Chimp Subscriber</li>
-	<li>Supports Disqus Comments</li>
-	<li>Social Media Profiles</li>
-	<li>Contact Form - FormsPree</li>
-	<li>Evil Icons</li>
-	<li>Google Fonts</li>
-</ul>
-
-<h2>Credits</h2>
-
 <p>I have used the following scripts, fonts or other files as listed.</p>
 
 <ul>
