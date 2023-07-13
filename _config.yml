@@ -35,8 +35,8 @@ logo: /assets/img/Photo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: Dan Tsekhanskiy
-  email: dan@tseknet.com
+  name: H M Sabbir Ahmad
+  email: sabbir92@bu.edu
   # # Used by `jekyll-seo-tag`:
   twitter: tseknet
   rss: true
