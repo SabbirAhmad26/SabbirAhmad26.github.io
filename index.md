@@ -5,7 +5,7 @@ sitemap: true
 cover: true
 ---
 
-Hi, I'm Dan. I'm a Windows SRE @ Google.
+My name is H M Sabbir Ahmad. I am a 3rd year PhD student of Systems Engineering at Boston University. I am jointly supervised by Professor Wenchao Li and Professor Christos G. Cassandras, and affiliated with Dependable Computing Lab and CODES Lab. 
 {:.lead}
 
 This website aims to document *interesting* tech problems I've
